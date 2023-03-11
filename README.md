@@ -1,4 +1,9 @@
 # ASP.NET Boilerplates GitHub
++ .NET Application Architecture
++ .NET Application Templates
++ .NET Boilerplates
++ .NET Starter Kit
++ ASP.NET Application Architecture
 + ASP.NET Application Templates
 + ASP.NET Boilerplates
 + ASP.NET Starter Kit
@@ -17,6 +22,24 @@
 + [ASP.NET Core 6.0 Web API](https://github.com/fullstackhero/dotnet-webapi-boilerplate)
 + [.NET 6.0 Boilerplate](https://github.com/cornflourblue/dotnet-6-signup-verification-api)
 
+# ASP.NET Boilerplates (Source Code)
++ https://github.com/dotnet-architecture/eShopOnContainers
++ https://github.com/dotnet-architecture/eShopOnWeb
++ https://github.com/dotnet-architecture/eShopOnBlazor
++ https://github.com/dotnet-architecture/eShopModernizing
++ https://github.com/yanpitangui/dotnet-api-boilerplate/
++ https://github.com/lkurzyniec/netcore-boilerplate
++ https://github.com/aspnetrun/run-aspnetcore
++ https://github.com/alico/asp-net-6-mvc-boilerplate
++ https://github.com/aspnetcorehero/Boilerplate
++ https://github.com/aspnetboilerplate/aspnetboilerplate
++ https://github.com/joeaudette/aspnetcore-vue-typescript
++ https://github.com/cornflourblue/aspnet-core-3-signup-verification-api
++ https://github.com/NickMaev/react-core-boilerplate
++ https://github.com/johnnyreilly/auth0-react-typescript-asp-net-core
++ https://github.com/quadio/amss-boilerplate
++ https://github.com/EffieArditi/AspNet-WebApi-Boilerplate
+
 # Articles
 + https://codewithmukesh.com/blog/aspnet-core-hero-boilerplate-quick-start/
 + https://codewithmukesh.com/blog/introducing-fullstackhero/
@@ -32,20 +55,6 @@
 + https://github.com/fullstackhero
 + https://github.com/aspnetcorehero
 + https://github.com/cornflourblue
-
-# Boilerplates
-+ https://github.com/yanpitangui/dotnet-api-boilerplate/
-+ https://github.com/lkurzyniec/netcore-boilerplate
-+ https://github.com/aspnetrun/run-aspnetcore
-+ https://github.com/alico/asp-net-6-mvc-boilerplate
-+ https://github.com/aspnetcorehero/Boilerplate
-+ https://github.com/aspnetboilerplate/aspnetboilerplate
-+ https://github.com/joeaudette/aspnetcore-vue-typescript
-+ https://github.com/cornflourblue/aspnet-core-3-signup-verification-api
-+ https://github.com/NickMaev/react-core-boilerplate
-+ https://github.com/johnnyreilly/auth0-react-typescript-asp-net-core
-+ https://github.com/quadio/amss-boilerplate
-+ https://github.com/EffieArditi/AspNet-WebApi-Boilerplate
 
 # Themes
 + Sneat ASP.NET Core Admin
