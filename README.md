@@ -1,6 +1,15 @@
-# ASPNET-Boilerplates-GitHub
-.NET Application Templates (ASP.NET Boilerplates) (ASP.NET Starter Kit)
+# ASP.NET Boilerplates GitHub
++ ASP.NET Application Templates
++ ASP.NET Boilerplates
++ ASP.NET Starter Kit
 
+# ASP.NET & Visual Studio
++ [Visual Studio Magazine](https://visualstudiomagazine.com/)
++ [Visual Studio Marketplace](https://marketplace.visualstudio.com/)
++ [CodeMaid](https://marketplace.visualstudio.com/items?itemName=SteveCadwallader.CodeMaid)
++ [Code Converter (VB - C#)](https://marketplace.visualstudio.com/items?itemName=SharpDevelopTeam.CodeConverter)
+
+# ASP.NET Boilerplates GitHub
 + [Save Time using Boilerplates](https://www.unosquare.com/blog/how-to-save-time-in-net-using-boilerplates/)
 + [10+ Useful Asp Net Boilerplates 2023](https://themeselection.com/asp-net-boilerplates/)
 + [React Boilerplate](https://themeselection.com/react-boilerplate/)
