@@ -64,6 +64,8 @@
 + https://github.com/fullstackhero
 + https://github.com/aspnetcorehero
 + https://github.com/cornflourblue
++ [Abu Dzakiyyah](https://github.com/cyberzilla)
+  + Email: cyberzilla@ymail.com
 
 # Themes
 + Sneat ASP.NET Core Admin
@@ -84,7 +86,7 @@
   + https://github.com/somaraj/AdminLTE-VS-Template
   + https://github.com/eralston/AdminLteMvc
   + https://github.com/go2ismail/AdminLTE-ASP-NET-MVC
-  + https://github.com/cyberzilla/dycms
+  + https://github.com/cyberzilla/dycms (cyberzilla@ymail.com)
   + https://manhng.com/blog/adminlte-starter-kit/
   + https://manhng.com/archive/adminlte/
 
