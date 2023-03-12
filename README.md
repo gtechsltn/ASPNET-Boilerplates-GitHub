@@ -29,7 +29,9 @@
 + https://github.com/dotnet-architecture/eShopModernizing
 + https://github.com/yanpitangui/dotnet-api-boilerplate/
 + https://github.com/lkurzyniec/netcore-boilerplate
++ https://github.com/aspnetrun
 + https://github.com/aspnetrun/run-aspnetcore
++ https://github.com/aspnetrun/run-aspnetcore-cqrs
 + https://github.com/alico/asp-net-6-mvc-boilerplate
 + https://github.com/aspnetcorehero/Boilerplate
 + https://github.com/aspnetboilerplate/aspnetboilerplate
@@ -39,6 +41,13 @@
 + https://github.com/johnnyreilly/auth0-react-typescript-asp-net-core
 + https://github.com/quadio/amss-boilerplate
 + https://github.com/EffieArditi/AspNet-WebApi-Boilerplate
++ https://github.com/hlaueriksson/CommandQuery
++ https://github.com/abpframework/abp
++ https://github.com/aspnetboilerplate/aspnetboilerplate
++ https://github.com/serenity-is/Serenity
++ https://github.com/iammukeshm/AdminLTE.MVC
++ https://github.com/artmasters200/AdminLTE
++ https://github.com/moemura/AdminLTE.Core
 
 # Articles
 + https://codewithmukesh.com/blog/aspnet-core-hero-boilerplate-quick-start/
@@ -59,6 +68,20 @@
 # Themes
 + Sneat ASP.NET Core Admin
 + AdminLTE
+  + https://adminlte.io/docs/3.1/implementations.html
+  + https://marketplace.visualstudio.com/items?itemName=MukeshMurugan.AdminLTEStarterKitAspNetCore
+  + https://marketplace.visualstudio.com/items?itemName=c0shea.AdminLTETemplate
+  + https://marketplace.visualstudio.com/items?itemName=DiomedesIgnacioDominguezUrena.N-LayerAdminLTENET
+  + https://github.com/almasaeed2010/AdminLTE/archive/v2.4.9.zip
+  + https://github.com/almasaeed2010/AdminLTE/archive/v2.4.5.zip
+  + https://github.com/almasaeed2010/AdminLTE/archive/v2.4.0.zip
+  + https://www.howtosolutions.net/2022/02/visual-studio-asp-net-mvc-project-installing-adminlte-dashboard-template/
+  + https://www.howtosolutions.net/2021/11/visual-studio-missing-asp-net-web-application-template-dotnet-framework/
+  + https://programtown.com/how-to-integrate-admin-template-in-asp-net-core-mvc-visual-studio-2022/
+  + https://github.com/fullcalendar/fullcalendar
+  + https://github.com/DiomedesDominguez/AdminLTE.NET
+  + https://github.com/iyilm4z/admin-lte-dotnet
+  + https://github.com/somaraj/AdminLTE-VS-Template
 
 # jQuery Plugins
 + Select2.js
