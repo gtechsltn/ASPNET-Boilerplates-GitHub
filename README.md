@@ -64,6 +64,8 @@
 + https://github.com/fullstackhero
 + https://github.com/aspnetcorehero
 + https://github.com/cornflourblue
++ [Henrik Lau Eriksson](https://github.com/hlaueriksson)
+  + Email: henrik@laueriksson.com
 + [Abu Dzakiyyah](https://github.com/cyberzilla)
   + Email: cyberzilla@ymail.com
 
