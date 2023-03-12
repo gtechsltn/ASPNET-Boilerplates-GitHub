@@ -82,6 +82,11 @@
   + https://github.com/DiomedesDominguez/AdminLTE.NET
   + https://github.com/iyilm4z/admin-lte-dotnet
   + https://github.com/somaraj/AdminLTE-VS-Template
+  + https://github.com/eralston/AdminLteMvc
+  + https://github.com/go2ismail/AdminLTE-ASP-NET-MVC
+  + https://github.com/cyberzilla/dycms
+  + https://manhng.com/blog/adminlte-starter-kit/
+  + https://manhng.com/archive/adminlte/
 
 # jQuery Plugins
 + Select2.js
