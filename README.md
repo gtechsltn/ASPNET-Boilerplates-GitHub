@@ -107,6 +107,7 @@
 + [Fancybox.js](https://github.com/fancyapps/fancybox/releases)
   + https://github.com/fancyapps/fancybox
   + https://fancyapps.com/
+  + https://vijayt.com/post/fancybox-integration-with-asp-net-mvc-application/
 + [Fancytree.js](https://github.com/mar10/fancytree)
 
 # jsTree Drag Drop
