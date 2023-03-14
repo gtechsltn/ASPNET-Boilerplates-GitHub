@@ -104,6 +104,10 @@
 + jsTree.js
 + autoNumeric.js
 + Moment.js
++ [Fancybox.js](https://github.com/fancyapps/fancybox/releases)
+  + https://github.com/fancyapps/fancybox
+  + https://fancyapps.com/
++ [Fancytree.js](https://github.com/mar10/fancytree)
 
 # jsTree Drag Drop
 + https://kolaberate.com/2019/10/17/224/
