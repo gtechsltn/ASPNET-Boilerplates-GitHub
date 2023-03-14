@@ -110,6 +110,14 @@
 + https://www.codeproject.com/Articles/176166/Simple-FileManager-width-MVC-3-and-jsTree
 + https://dotnetgenetics.blogspot.com/2020/12/aspnet-mvc-bind-or-populate-jstree-from.html
 
+# jQuery Fancy Tree
++ https://github.com/mar10/fancytree/
+
+# jQuery Context Menu
++ https://github.com/swisnl/jQuery-contextMenu
++ https://github.com/mar10/jquery-ui-contextmenu
++ https://github.com/tweego/JeeGooContext
+
 # Menu
 + https://kolaberate.com/2018/12/10/creating-a-side-menu-for-asp-net-core-using-a-view-component/
 + https://github.com/IntrinsicInnovation/CoreMenuBuilder
