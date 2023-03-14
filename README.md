@@ -95,6 +95,9 @@
   + https://github.com/Chuibility/inspinia
   + https://github.com/clong365/inspinia-3 
 
+# ASP.NET Core MVC TreeView
++ https://github.com/vitalievich/ASP.NET-Core-TreeView
+
 # jQuery Plugins
 + Select2.js
 + DataTables.js
