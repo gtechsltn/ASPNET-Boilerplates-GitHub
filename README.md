@@ -107,6 +107,91 @@
 
 # JWT
 + https://github.com/gtechsltn/DotNet-Core-JWT-AccessToken-RefreshToken-MSSQL
++ https://www.learmoreseekmore.com/2020/08/jwt-authentication-dotenetcore.html
++ https://www.learmoreseekmore.com/2020/08/jwt-refreshtoken-auth-dotenetcore.html
++ https://github.com/Naveen512/donet-core-JWT-AccessToken
++ https://github.com/gtechsltn/DotNet-Core-JWT-AccessToken-RefreshToken-MSSQL
+
+# Stored procedure with Searching, Sorting and Pagination in SQL Server
++ https://www.yogeshhadiya.in/2023/01/stored-procedure-with-searching-sorting.html
++ https://yogeshhadiya33.medium.com/stored-procedure-with-searching-sorting-and-pagination-in-sql-server-8d7f0d774740
+
+# Writing CLIs in C#
++ https://medium.com/@nocgod/writing-clis-in-c-3d84fe8da735
++ https://github.com/EugeneKrapivin/MyAwesomeCLI
+
+# How to setup your dotnet project with test coverage reporting
++ https://medium.com/@nocgod/how-to-setup-your-dotnet-project-with-a-test-coverage-reporting-6ff1903f7240
+
+# Code Coverage
++ [Coverlet & ReportGenerator](https://github.com/danielpalme/ReportGenerator)
++ Visual Studio Test coverage analysis
++ ReSharper dotCover
++ JetBrains Rider
++ Coverlet
++ ReportGenerator
++ MSBuild
+
+# CI tools:
++ Jenkins
++ TeamCity
+
+# Code Quality Analyzers:
++ Codacy
++ CodeCov
++ SonarQube
+
+# 15 tools for .NET developers that you probably didn't know about:
++ 1. JustDecompile
++ 2. PostSharp
++ 3. LINQPad
++ 4. Glimpse
++ 5. Raygun
++ 6. DotNetty
++ 7. Octopus Deploy
++ 8. NCrunch
++ 9. NDepend
++ 10. Reflector
++ 11. OpenCover
++ 12. Prism
++ 13. Dapper
++ 14. Stackify
++ 15. DbUp
+
+# Code Structure:
++ FineCodeCoverage
++ Benchmark
++ NCrunch
++ StyleCop
++ Hangfire
++ Nuke
++ Visual Studio Code Map
++ Autofac
++ MediatR
++ NSpec
++ Bogus
++ AutoFixture
++ FluentValidation
++ FluentAssertion
++ Nodatime
+
+# C# Code Better
++ 1. Write Clear and Concise Code
++ 2. Follow Naming Conventions
++ 3. Use Comments Wisely
++ 4. Modularize Your Code
++ 5. Follow Best Practices
++ 6. Test Your Code
++ 7. Document Your Code
+
+# C# Best Practices
++ 1. Understanding C# Coding Standards
++ 2. Use Appropriate Naming Conventions
++ 3. Organize Your Code for Readability
++ 4. Use Proper Exception Handling Techniques in C#
++ 5. Optimize Your Code for Performance
++ 6. Test Your Code
++ 7. StyleCop
 
 # ASP.NET Core MVC CMS
 + https://github.com/raythahq/raytha
