@@ -58,6 +58,25 @@
 + https://codewithmukesh.com/blog/introducing-fullstackhero/
 + https://jasonwatmore.com/post/2022/02/26/net-6-boilerplate-api-tutorial-with-email-sign-up-verification-authentication-forgot-password
 
+# Design Patterns
++ https://medium.com/@info_6303/10-essential-patterns-for-c-and-net-development-e9b881b9a6ba
+
+# Restful API
++ https://levelup.gitconnected.com/10-best-practices-for-designing-restful-apis-6fd6cf354a9
+
+# PagedList
++ https://levelup.gitconnected.com/efficient-pagination-in-net-best-practices-and-tools-for-returning-paged-collections-bd398d467584
+
+# IdentityServer
++ https://github.com/DuendeSoftware/IdentityServer
++ https://github.com/DuendeSoftware/IdentityServer
++ https://github.com/skoruba/Duende.IdentityServer.Admin
++ https://github.com/workcontrolgit/CATTokenService.AdminUI.Duende
+
+# Angular
++ https://medium.com/scrum-and-coke/angular-15-net-7-token-service-deep-dive-7668ee3f6a67
++ https://medium.com/scrum-and-coke/full-stack-angular-15-bootstrap-5-net-7-api-563227ef7a20
+
 # Source Codes
 + https://github.com/cornflourblue/dotnet-6-signup-verification-api
 + https://github.com/cornflourblue/angular-10-signup-verification-boilerplate
@@ -160,6 +179,8 @@
 
 # Code Structure:
 + FineCodeCoverage
+
+# Tools
 + Benchmark
 + NCrunch
 + StyleCop
@@ -174,6 +195,15 @@
 + FluentValidation
 + FluentAssertion
 + Nodatime
++ Dapper
++ MailKit
++ Diagnostic.HealthChecks
++ .NET-Core Bcrypt
++ LiteDB (NoSQL)
++ Swashbuckle
++ SaaSKit
++ SignalR
++ AutoMapper
 
 # C# Code Better
 + 1. Write Clear and Concise Code
@@ -184,7 +214,17 @@
 + 6. Test Your Code
 + 7. Document Your Code
 
-# C# Best Practices
+# 10 Tips for Writing Efficient C# Code
++ Use the using statement to properly dispose of resources
++ Prefer for each loop over for loops when iterating through collections
++ Use the string.Format method instead of concatenating strings with the + operator
++ Avoid using var unless it clearly improves readability
++ Use the StringBuilder class for concatenating large numbers of strings
++ Use async and await for asynchronous programming instead of creating your own threading logic
++ Use nullable types to represent values that may be null
++ Use struct instead of class for value types that have a small memory footprint
++ Avoid using ref and out parameters unless absolutely necessary
++ Use lock statements sparingly, as they can cause performance issues
 + 1. Understanding C# Coding Standards
 + 2. Use Appropriate Naming Conventions
 + 3. Organize Your Code for Readability
@@ -206,6 +246,7 @@
 + [Papercut-SMTP](https://github.com/ChangemakerStudios/Papercut-SMTP)
 
 # Unit Testing with Dapper
++ https://enlear.academy/how-to-write-unit-tests-with-dapper-d97f4c6f76d6
 + https://github.com/UnoSD/Moq.Dapper
 + https://mikhail.io/2016/02/unit-testing-dapper-repositories/
 + https://www.intertech.com/unit-test-dapper-with-dapperparameters/
@@ -217,6 +258,9 @@
 + https://github.com/nrjohnstone/ports-adapters-examples
 + https://github.com/codeapologist/DataAbstractions.Dapper
 + https://github.com/half-ogre/dapper-wrapper
+
+# Dapper with Transaction
++ https://medium.com/c-sharp-progarmming/dapper-best-practices-c-developers-guide-to-database-management-c25439b4780b
 
 # Blazor
 + https://www.learmoreseekmore.com/2020/10/blazor-webassembly-custom-authentication-from-scratch.html
@@ -254,3 +298,59 @@
 # Menu
 + https://kolaberate.com/2018/12/10/creating-a-side-menu-for-asp-net-core-using-a-view-component/
 + https://github.com/IntrinsicInnovation/CoreMenuBuilder
+
+# 18 important JavaScript string methods for developers
+
+# 1. trim()
+It removes white space on both sides. ThetrimStart() andtrimStart() methods are also included in ECMAScript 2019. These are the same as trim(), buttrimStart() and trimEnd() remove white space from the beginning and end of the string, respectively.
+
+# 2. match()
+The match() method returns an array of the matching strings.
+
+# 3. split()
+The split() method converts a string into an array of strings.
+
+# 4. slice()
+Theslice()method extracts a portion of a string and returns it as a new string. It takes two parameters: a starting point and an ending point. However, if you leave out the second one, it will cut the remaining string. In the case of a negative value, a parameter's position is calculated from the end of the string.
+
+# 5. length
+Thelength property returns the length of the string.
+
+# 6. substr()
+The substr() method extracts part of a string and returns it in a new string. Although it is similar to the slice() method, the only difference is that the second parameter in this method specifies the length of the extracted part.
+
+# 7. search()
+The search() method looks through the string for a string and then returns the position of the match.
+
+# 8. concat()
+The contact() method is used to add or join two or more strings. It can also be used in place of the plus operator.
+
+# 9. charAt()
+The charAt() method returns the character at a specified index in a string.
+
+# 10. repeat()
+The repeat() method repeats a string a specified number of times.
+
+# 11. indexOf()
+The indexOf() method returns the index of the first occurrence of a substring.
+
+# 12. replace()
+The replace() method replaces strings with new values in a string.
+
+# 13. includes()
+The includes() method checks if the string contains the substring. If the string contains the specified value, it returns true; otherwise, it returns false.
+
+# 14. endsWith()
+The endsWith() method determines whether a string ends at the value that is specified. If the answer is yes, it returns true; otherwise, it returns false.
+
+# 15. substring()
+The substring() method extracts characters from a string. It is similar to the slice() method. The difference is that when a start or end value is less than 0, the function treats it as 0.
+
+# 16. startsWith()
+The startsWith() checks if a string starts with a specified value.
+
+# 17. toLowerCase()
+The toLowerCase() method converts a string to lower case.
+
+# 18. toUpperCase()
+The toUpperCase() method capitalizes the entire string.
