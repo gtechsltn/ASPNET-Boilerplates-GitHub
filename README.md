@@ -131,9 +131,19 @@
 + https://github.com/Naveen512/donet-core-JWT-AccessToken
 + https://github.com/gtechsltn/DotNet-Core-JWT-AccessToken-RefreshToken-MSSQL
 
-# Stored procedure with Searching, Sorting and Pagination in SQL Server
+# SQL Stored procedure with Searching, Sorting and Pagination in SQL Server
 + https://www.yogeshhadiya.in/2023/01/stored-procedure-with-searching-sorting.html
 + https://yogeshhadiya33.medium.com/stored-procedure-with-searching-sorting-and-pagination-in-sql-server-8d7f0d774740
+
+# SQL Queries
++ https://medium.com/@abdelilah.moulida/5-best-practices-for-writing-sql-joins-d200dcd03b24
++ https://medium.com/codex/5-real-world-sql-queries-to-know-38d12e7feb27
++ https://medium.com/@abdelilah.moulida/the-3-hardest-things-to-do-in-sql-4dc719bcf7e5
++ https://medium.com/@sruthierenu/9-ways-to-optimise-your-sql-query-def9ebc25247
++ https://medium.com/@pyzone.dev/three-points-for-writing-optimal-sql-queries-892e1f3fb477
++ https://medium.com/@abdelilah.moulida/4-useful-intermediate-sql-queries-for-data-science-fa43cba29dfb
++ https://medium.com/@abdelilah.moulida/6-sql-query-optimisation-techniques-60eda6d0fcd2
++ https://medium.com/geekculture/advanced-sql-tips-and-tricks-for-data-analysts-2f5079c8ba7b
 
 # Writing CLIs in C#
 + https://medium.com/@nocgod/writing-clis-in-c-3d84fe8da735
@@ -225,6 +235,8 @@
 + Use struct instead of class for value types that have a small memory footprint
 + Avoid using ref and out parameters unless absolutely necessary
 + Use lock statements sparingly, as they can cause performance issues
+
+# 7 Tips C# Best Practices
 + 1. Understanding C# Coding Standards
 + 2. Use Appropriate Naming Conventions
 + 3. Organize Your Code for Readability
