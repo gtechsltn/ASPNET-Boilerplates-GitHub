@@ -117,8 +117,21 @@
 # SMTP Send Email
 + [Papercut-SMTP](https://github.com/ChangemakerStudios/Papercut-SMTP)
 
-# Unit Testing
+# Unit Testing with Dapper
 + https://github.com/UnoSD/Moq.Dapper
++ https://mikhail.io/2016/02/unit-testing-dapper-repositories/
++ https://www.intertech.com/unit-test-dapper-with-dapperparameters/
++ https://makolyte.com/csharp-how-to-unit-test-code-that-uses-dapper/
++ https://stackoverflow.com/questions/30453890/unit-testing-dapper-with-inline-queries
++ https://dev.to/techiesdiary/net-60-clean-architecture-using-repository-pattern-and-dapper-with-logging-and-unit-testing-1nd9
++ https://github.com/IntertechInc/DapperParameters
++ https://github.com/FromDoppler/doppler-html-editor-api
++ https://github.com/nrjohnstone/ports-adapters-examples
++ https://github.com/codeapologist/DataAbstractions.Dapper
++ https://github.com/half-ogre/dapper-wrapper
+
+# Blazor
++ https://www.learmoreseekmore.com/2020/10/blazor-webassembly-custom-authentication-from-scratch.html
 
 # jQuery Plugins
 + Select2.js
