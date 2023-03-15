@@ -7,6 +7,9 @@
 + ASP.NET Application Templates
 + ASP.NET Boilerplates
 + ASP.NET Starter Kit
++ Design Principles
++ Design Patterns
++ Azure Well-Architected Framework: Reliable Web App pattern (RWA)
 
 # ASP.NET & Visual Studio
 + [Visual Studio Magazine](https://visualstudiomagazine.com/)
@@ -23,6 +26,7 @@
 + [.NET 6.0 Boilerplate](https://github.com/cornflourblue/dotnet-6-signup-verification-api)
 
 # ASP.NET Boilerplates (Source Code)
++ https://github.com/Azure/reliable-web-app-pattern-dotnet
 + https://github.com/dotnet-architecture/eShopOnContainers
 + https://github.com/dotnet-architecture/eShopOnWeb
 + https://github.com/dotnet-architecture/eShopOnBlazor
@@ -97,6 +101,24 @@
 
 # ASP.NET Core MVC TreeView
 + https://github.com/vitalievich/ASP.NET-Core-TreeView
+
+# JWT
++ https://github.com/gtechsltn/DotNet-Core-JWT-AccessToken-RefreshToken-MSSQL
+
+# ASP.NET Core MVC CMS
++ https://github.com/raythahq/raytha
++ https://github.com/gtechsltn/raytha-cms
+
+# Raytha - Open Source .NET CMS
++ https://localhost
++ https://localhost/raytha
++ https://localhost/raytha/api/index.html
+
+# SMTP Send Email
++ [Papercut-SMTP](https://github.com/ChangemakerStudios/Papercut-SMTP)
+
+# Unit Testing
++ https://github.com/UnoSD/Moq.Dapper
 
 # jQuery Plugins
 + Select2.js
