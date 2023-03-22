@@ -22,10 +22,10 @@
   + JWT Token authentication
   + AutoMapper
   + RabbitMQ
-  + Unit Test cases
   + LINQ
   + Middleware
   + Exception handling
+  + Unit Test cases
 
 # HTML
 + https://github.com/freeCodeCamp/freeCodeCamp
