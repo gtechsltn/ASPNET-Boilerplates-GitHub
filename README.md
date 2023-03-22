@@ -11,6 +11,10 @@
 + Design Patterns
 + Azure Well-Architected Framework: Reliable Web App pattern (RWA)
 
+# GitHub & ReadMe
++ https://bulldogjob.com/readme/how-to-write-a-good-readme-for-your-github-project
++ https://code.tutsplus.com/tutorials/how-to-collaborate-on-github--net-34267
+
 # ASP.NET & Visual Studio
 + [Visual Studio Magazine](https://visualstudiomagazine.com/)
 + [Visual Studio Marketplace](https://marketplace.visualstudio.com/)
