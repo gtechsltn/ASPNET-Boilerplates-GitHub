@@ -11,8 +11,13 @@
 + Design Patterns
 + Azure Well-Architected Framework: Reliable Web App pattern (RWA)
 
+# HTML
++ https://github.com/freeCodeCamp/freeCodeCamp
++ https://github.com/EvanLi/Github-Ranking#html
+
 # Trending CSharp (c%23) & GitHub Ranking
 + https://github.com/trending/c%23
++ + https://github.com/EvanLi/Github-Ranking#c%23
 + https://github.com/topics/best-practices?l=c%23
 + https://github.com/EvanLi/Github-Ranking
 
