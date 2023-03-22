@@ -11,6 +11,9 @@
 + Design Patterns
 + Azure Well-Architected Framework: Reliable Web App pattern (RWA)
 
+# Trending CSharp (c%23)
++ https://github.com/trending/c%23
+
 # GitHub & ReadMe
 + https://bulldogjob.com/readme/how-to-write-a-good-readme-for-your-github-project
 + https://code.tutsplus.com/tutorials/how-to-collaborate-on-github--net-34267
