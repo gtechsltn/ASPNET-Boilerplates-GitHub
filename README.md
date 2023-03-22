@@ -11,6 +11,22 @@
 + Design Patterns
 + Azure Well-Architected Framework: Reliable Web App pattern (RWA)
 
+# Invoice Service
++ **.NET core Web API with Repository + Unit of Work**
++ https://medium.com/@mlkpatel0/net-core-web-api-with-repository-unit-of-work-1671b54bbd1e
++ **.NET core Web API with Repository + Unit of Work**
++ https://github.com/m-patel90/InvoiceService
+  + Skeleton with Repository + Unit Of Work
+  + Entity Framework
+  + Logging
+  + JWT Token authentication
+  + AutoMapper
+  + RabbitMQ
+  + Unit Test cases
+  + LINQ
+  + Middleware
+  + Exception handling
+
 # HTML
 + https://github.com/freeCodeCamp/freeCodeCamp
 + https://github.com/EvanLi/Github-Ranking#html
