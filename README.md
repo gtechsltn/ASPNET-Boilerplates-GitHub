@@ -14,6 +14,15 @@
 # System Design Master Template
 + ![image](https://user-images.githubusercontent.com/87538251/227076602-c4b9d152-e6ce-4f5c-a903-5f792f725680.png)
 
+# Code Conversion
++ C# to PowerShell
++ https://github.com/ironmansoftware/code-conversion
++ PowerShell to C#
++ https://github.com/gtechsltn/code-conversion
++ Executing C# code in PowerShell
++ https://nguyentoanuit.wordpress.com/2016/11/02/executing-c-code-in-powershell/
+  + Creating a DLL and executing this DLL in PowerShell
+  + Executing C# code directly in PowerShell script using Add-Type
 
 # Invoice Service
 + **.NET core Web API with Repository + Unit of Work**
