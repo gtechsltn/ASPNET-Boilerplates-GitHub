@@ -318,7 +318,11 @@
 + https://medium.com/c-sharp-progarmming/dapper-best-practices-c-developers-guide-to-database-management-c25439b4780b
 
 # Blazor
++ https://github.com/AdrienTorris/awesome-blazor
++ https://codewithmukesh.com/blog/blazor-hero-quick-start-guide/
++ https://github.com/blazorhero/CleanArchitecture
 + https://www.learmoreseekmore.com/2020/10/blazor-webassembly-custom-authentication-from-scratch.html
++ https://medium.com/@alexandre.malavasi/top-10-nice-free-blazor-components-b42875e56b28
 
 # jQuery Plugins
 + Select2.js
