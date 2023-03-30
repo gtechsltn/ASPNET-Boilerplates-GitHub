@@ -12,8 +12,11 @@
 + Azure Well-Architected Framework: Reliable Web App pattern (RWA)
 
 # Build A CMS Admin Bootstrap Theme From Scratch
++ https://www.sitepoint.com/create-simple-cms-easy-editing/
 + https://github.com/gtechsltn/AdminStrap-Theme
 + https://github.com/gtechsltn/AdminStrapTheme
++ https://github.com/gtechsltn/icon-selector-field
++ https://github.com/gtechsltn/PHP-Login
 
 # System Design Master Template
 + ![image](https://user-images.githubusercontent.com/87538251/227076602-c4b9d152-e6ce-4f5c-a903-5f792f725680.png)
