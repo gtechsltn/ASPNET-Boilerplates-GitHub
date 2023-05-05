@@ -13,6 +13,23 @@
 
 # Code Generator
 + https://dotnetsnip.com/
++ https://github.com/linq2db/linq2db
+
+# Query to POCO class (C#):
++ https://github.com/adamfoneil/Postulate.Zinger/
++ https://github.com/gtechsltn/POCOGenerator
++ https://github.com/gtechsltn/POCOGenerator_EXE
++ https://github.com/adamfoneil/ModelClassBuilderLib
++ https://github.com/gtechsltn/ModelClassBuilderLib
++ https://github.com/KinocoLLC/MySQLToCsharp
+
+# T-SQL: Table/View To POCO class (C#):
++ https://gist.github.com/chris84948/c9f3712e17ff5e75a4ba706b99de8f96
++ https://gist.github.com/DanElliott/67a641399b343acd205d3d9f3a1ac16a
++ https://gist.github.com/richorama/c748aeb2cd0ce8bbd0c91cc14d20e4de
++ https://gist.github.com/hpinio/58a6819837a9bc648e8d2899f1607aca
++ https://gist.github.com/justshrey/25ed1fc5c4943beeed0e8ddad196de87
++ https://gist.github.com/joey-qc/6710702
 
 # Build A CMS Admin Bootstrap Theme From Scratch
 + https://www.sitepoint.com/create-simple-cms-easy-editing/
