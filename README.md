@@ -11,6 +11,9 @@
 + Design Patterns
 + Azure Well-Architected Framework: Reliable Web App pattern (RWA)
 
+# Code Generator
++ https://dotnetsnip.com/
+
 # Build A CMS Admin Bootstrap Theme From Scratch
 + https://www.sitepoint.com/create-simple-cms-easy-editing/
 + https://github.com/gtechsltn/AdminStrap-Theme
