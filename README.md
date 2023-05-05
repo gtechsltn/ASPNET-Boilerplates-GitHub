@@ -16,6 +16,10 @@
 + https://www.kamilgrzybek.com/blog/posts/simple-cqrs-implementation-raw-sql-ddd
 + https://gist.github.com/krfong916/eff3681cab0ad40f32cb7d0bd80a635d
 
+# Software Project Management
++ https://github.com/gtechsltn/Ginseng8
++ https://github.com/adamfoneil/Ginseng8
+
 # Code Generator
 + https://dotnetsnip.com/
 + https://github.com/linq2db/linq2db
