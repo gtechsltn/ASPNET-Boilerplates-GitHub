@@ -11,6 +11,11 @@
 + Design Patterns
 + Azure Well-Architected Framework: Reliable Web App pattern (RWA)
 
+# CQRS with Raw SQL and DDD
++ https://github.com/kgrzybek/sample-dotnet-core-cqrs-api
++ https://www.kamilgrzybek.com/blog/posts/simple-cqrs-implementation-raw-sql-ddd
++ https://gist.github.com/krfong916/eff3681cab0ad40f32cb7d0bd80a635d
+
 # Code Generator
 + https://dotnetsnip.com/
 + https://github.com/linq2db/linq2db
