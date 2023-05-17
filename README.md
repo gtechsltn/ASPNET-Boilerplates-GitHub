@@ -11,6 +11,12 @@
 + Design Patterns
 + Azure Well-Architected Framework: Reliable Web App pattern (RWA)
 
+# Clean Code
++ https://docs.google.com/document/d/1fHS6aWNlRq1_IMakQJPnpxNtwsOkpehEc5e45pEuxRM/
++ Source Code: https://github.com/PacktPublishing/
++ Search Google: **Software Architecture with C# 10 and .NET 6 site:www.packtpub.com**
++ Search Google: **Enterprise Application Development site:www.packtpub.com**
+
 # CQRS with Raw SQL and DDD
 + https://github.com/kgrzybek/sample-dotnet-core-cqrs-api
 + https://www.kamilgrzybek.com/blog/posts/simple-cqrs-implementation-raw-sql-ddd
@@ -355,6 +361,7 @@
 
 # Blazor
 + [Blazor Plate](https://www.blazorplate.net/technical-specifications)
++ [The All-In-One Blazor Boilerplate and Admin Dashboard Template You Need](https://www.blazorplate.net/technical-specifications)
 + https://github.com/AdrienTorris/awesome-blazor
 + https://codewithmukesh.com/blog/blazor-hero-quick-start-guide/
 + https://github.com/blazorhero/CleanArchitecture
@@ -397,61 +404,61 @@
 
 # 18 important JavaScript string methods for developers
 
-# 1. trim()
+## 1. trim()
 It removes white space on both sides. ThetrimStart() andtrimStart() methods are also included in ECMAScript 2019. These are the same as trim(), buttrimStart() and trimEnd() remove white space from the beginning and end of the string, respectively.
 
-# 2. match()
+## 2. match()
 The match() method returns an array of the matching strings.
 
-# 3. split()
+## 3. split()
 The split() method converts a string into an array of strings.
 
-# 4. slice()
+## 4. slice()
 Theslice()method extracts a portion of a string and returns it as a new string. It takes two parameters: a starting point and an ending point. However, if you leave out the second one, it will cut the remaining string. In the case of a negative value, a parameter's position is calculated from the end of the string.
 
-# 5. length
+## 5. length
 Thelength property returns the length of the string.
 
-# 6. substr()
+## 6. substr()
 The substr() method extracts part of a string and returns it in a new string. Although it is similar to the slice() method, the only difference is that the second parameter in this method specifies the length of the extracted part.
 
-# 7. search()
+## 7. search()
 The search() method looks through the string for a string and then returns the position of the match.
 
-# 8. concat()
+## 8. concat()
 The contact() method is used to add or join two or more strings. It can also be used in place of the plus operator.
 
-# 9. charAt()
+## 9. charAt()
 The charAt() method returns the character at a specified index in a string.
 
-# 10. repeat()
+## 10. repeat()
 The repeat() method repeats a string a specified number of times.
 
-# 11. indexOf()
+## 11. indexOf()
 The indexOf() method returns the index of the first occurrence of a substring.
 
-# 12. replace()
+## 12. replace()
 The replace() method replaces strings with new values in a string.
 
-# 13. includes()
+## 13. includes()
 The includes() method checks if the string contains the substring. If the string contains the specified value, it returns true; otherwise, it returns false.
 
-# 14. endsWith()
+## 14. endsWith()
 The endsWith() method determines whether a string ends at the value that is specified. If the answer is yes, it returns true; otherwise, it returns false.
 
-# 15. substring()
+## 15. substring()
 The substring() method extracts characters from a string. It is similar to the slice() method. The difference is that when a start or end value is less than 0, the function treats it as 0.
 
-# 16. startsWith()
+## 16. startsWith()
 The startsWith() checks if a string starts with a specified value.
 
-# 17. toLowerCase()
+## 17. toLowerCase()
 The toLowerCase() method converts a string to lower case.
 
-# 18. toUpperCase()
+## 18. toUpperCase()
 The toUpperCase() method capitalizes the entire string.
 
-## Software Architecture
+# Software Architecture
 + https://learn.microsoft.com/en-us/dotnet/architecture/
 + https://roadmap.sh/software-architect
 + https://dotnet.microsoft.com/en-us/learn/dotnet/architecture-guides
