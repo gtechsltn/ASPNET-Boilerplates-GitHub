@@ -11,6 +11,10 @@
 + Design Patterns
 + Azure Well-Architected Framework: Reliable Web App pattern (RWA)
 
+# Blazor
++ https://github.com/AdrienTorris/awesome-blazor
++ https://github.com/dotnet-architecture/eShopOnBlazor
+
 # Clean Code
 + https://docs.google.com/document/d/1fHS6aWNlRq1_IMakQJPnpxNtwsOkpehEc5e45pEuxRM/
 + Source Code: https://github.com/PacktPublishing/
