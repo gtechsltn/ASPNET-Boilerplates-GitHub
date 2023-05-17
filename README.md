@@ -450,3 +450,145 @@ The toLowerCase() method converts a string to lower case.
 
 # 18. toUpperCase()
 The toUpperCase() method capitalizes the entire string.
+
+## Software Architecture
++ https://learn.microsoft.com/en-us/dotnet/architecture/
++ https://roadmap.sh/software-architect
++ https://dotnet.microsoft.com/en-us/learn/dotnet/architecture-guides
++ https://docs.abp.io/en/commercial/latest/aspnet-zero-vs-abp-commercial
++ https://awesome-architecture.com/software-architecture/
++ https://github.com/phongnguyend/Practical.CleanArchitecture/ (HAY)
+
+## Blazor Hero Clean Architecture
+https://github.com/blazorhero/CleanArchitecture
+
+## Blazor WASM Boilerplate
++ Source: https://github.com/fullstackhero/blazor-wasm-boilerplate
++ Guide: https://codewithmukesh.com/blog/blazor-hero-quick-start-guide/
++ Ref: https://codewithmukesh.com/blog/category/dotnet/blazor/
+
+## Fluent UI:
++ https://learn.microsoft.com/en-us/fluent-ui/web-components/
++ https://github.com/microsoft/fluentui-blazor
++ https://github.com/microsoft/fluentui-blazor
++ https://github.com/BlazorFluentUI/BlazorFluentUI (Port of FluentUI/Office Fabric React components and style to Blazor)
++ NuGet package: Microsoft.Fast.Components.FluentUI
+
+## ABP Framework:
++ https://abp.io/
++ https://github.com/abpframework/abp
+
+## ASP.NET Boilerplate
++ https://github.com/aspnetboilerplate/aspnetboilerplate
+
+## ASP.NET Zero
++ https://www.aspnetzero.com/
+
+## Serenity: Asp.Net Core Business Application Framework
++ https://serenity.is/
++ https://github.com/serenity-is/Serenity
+
+## Blazor Boilerplate / Starter Template with MudBlazor
++ https://github.com/enkodellc/blazorboilerplate
+
+## Dot Net Architecture
++ https://github.com/dotnet-architecture/eShopOnWeb
++ https://github.com/dotnet-architecture/eShopOnContainers
+
+## Microservices
++ https://github.com/aspnetrun/run-aspnetcore-microservices
++ https://github.com/sanjyotagureddy/aspnetrun-microservices
++ https://github.com/fullstackhero/dotnet-microservices-boilerplate
+
+## Web Application Framework
++ https://fullstackhero.net/dotnet-webapi-boilerplate/
++ https://github.com/fullstackhero/dotnet-webapi-boilerplate
+
+## Clean Architecture: Source Codes
++ https://github.com/jasontaylordev/CleanArchitecture
++ https://github.com/ardalis/CleanArchitecture
++ https://github.com/iayti/CleanArchitecture
++ https://github.com/iammukeshm/OnionArchitecture 
++ https://github.com/arbems/Clean-Architecture-Solution
+
+## Clean Architecture: Articles
++ https://arbems.com/en/clean-architecture-net/
++ https://www.bytehide.com/blog/clean-architecture-asp-net
++ https://blog.christian-schou.dk/how-to-create-a-new-net-core-api-with-clean-architecture-using-dotnet-cli/
+
+## Other
++ https://blog.christian-schou.dk
++ https://github.com/Christian-Schou
++ https://github.com/Tech-With-Christian/Dotnet-CRUD-Api
++ https://github.com/Tech-With-Christian/Send-Mail-Using-Microsoft-Graph
+
+## Stored Procedure
++ http://sqltechtips.blogspot.com/2015/11/stored-procedure-benifits.html
+
+## Authentication
++ https://damienbod.com/2022/01/03/secure-a-blazor-wasm-asp-net-core-hosted-app-using-bff-and-openiddict/
++ https://damienbod.com/2022/02/21/implementing-authorization-in-blazor-asp-net-core-applications-using-azure-ad-security-groups/
++ https://code-maze.com/using-azure-active-directory-to-secure-a-blazor-webassembly-standalone-app/
++ https://adrianhall.github.io/asp.net/2022/09/01/blazor-wasm-aad-auth-part-1/
+
+## Secure an ASP.NET Core Blazor WebAssembly standalone app with Microsoft Accounts
++ https://github.com/dotnet/AspNetCore.Docs/blob/main/aspnetcore/blazor/security/webassembly/standalone-with-microsoft-accounts.md
++ https://medium.com/scrum-and-coke/blazor-server-app-authentication-with-azure-ad-account-43b4e5ed446f
++ https://github.com/Azure-Samples/ms-identity-blazor-wasm/blob/main/WebApp-OIDC/MyOrg/README.md
++ https://www.learmoreseekmore.com/2022/04/blazorwasm-cookie-series-part-4-microsoft-account-authentication.html
++ https://devblogs.microsoft.com/microsoft365dev/how-to-build-a-blazor-web-app-with-azure-active-directory-authentication-and-microsoft-graph/
+
+## Migrate or Convert:
++ https://blazor-university.com/
++ https://blazorhelpwebsite.com/
++ https://mudblazor.com/
++ https://github.com/MudBlazor/MudBlazor/
++ https://github.com/gavilanch/BlazorDynamicComponentDemoENG
++ https://www.syncfusion.com/blogs/post/5-simple-steps-to-create-a-blazor-component.aspx
++ https://learn.microsoft.com/en-us/dotnet/architecture/blazor-for-web-forms-developers/components
++ https://learn.microsoft.com/en-us/aspnet/core/blazor/components/dynamiccomponent?view=aspnetcore-7.0
++ https://www.c-sharpcorner.com/article/converting-a-blazor-wasm-app-to-a-blazor-server-app/
++ https://support.syncfusion.com/kb/article/11937/communicating-between-blazor-components-using-statecontainer
++ https://stackoverflow.com/questions/73863488/get-value-from-dynamic-component-in-blazor
++ https://www.c-sharpcorner.com/article/how-to-use-state-management-in-blazor/
++ https://visualstudiomagazine.com/articles/2019/07/19/how-to-dynamically-build.aspx
++ https://www.learmoreseekmore.com/2022/01/dotnet6-feature-built-in-dynamiccomponent-blazor.html
++ https://www.telerik.com/blogs/how-to-render-blazor-components-dynamically
++ https://www.daveabrock.com/2021/04/08/blazor-dynamic-component/
+
+## Third Sight Technical Debt
++ Security: MSAL with Azure Authentication
++ Encrypt
++ Performance
++ Scalability
+    + Vertical scaling (scaling up or down): CPUs or RAM
+    + Horizontal scaling (scaling in or out): Resources (virtual machines)
++ Monitoring: Azure Monitor, Application Insights
++ Logging: Serilog
++ Caching: Cache in-memory in ASP.NET Core
++ Azure Cloud: Automatic deploy to Cloud using CI/CD
+
+## System Design: Clean Architecture
++ Clean Architecture Principles: CQRS, MediatR and Mediator pattern
++ OOP (C#) and SOLID design principles
++ OWASP Top Ten
++ Test Driven Development
++ Domain Driven Design
++ Unit Testing
++ Multi Tenancy Support
++ Docker Support
++ CI/CD Support
+
+## Clean Architecture Boilerplate Template for .NET 6.0 Blazor WebAssembly
++ https://github.com/fullstackhero/blazor-wasm-boilerplate
+
+## Clean Architecture Template for .NET 7.0 WebApi built with Multitenancy Support
++ https://github.com/fullstackhero/dotnet-webapi-boilerplate
+
+## UI Framework: Fluent UI with Blazor
++ Use Fluent UI Web Components with Blazor
++ Unit Testing
+
+## Convert Stored Procedure (SP) from current to new system:
++ For simple SQL query: EF Core
++ For slow, large SQL query: Dapper
