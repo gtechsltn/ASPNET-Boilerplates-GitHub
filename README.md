@@ -82,7 +82,7 @@
 
 # Trending CSharp (c%23) & GitHub Ranking
 + https://github.com/trending/c%23
-+ + https://github.com/EvanLi/Github-Ranking#c%23
++ https://github.com/EvanLi/Github-Ranking#c%23
 + https://github.com/topics/best-practices?l=c%23
 + https://github.com/EvanLi/Github-Ranking
 
@@ -354,6 +354,7 @@
 + https://medium.com/c-sharp-progarmming/dapper-best-practices-c-developers-guide-to-database-management-c25439b4780b
 
 # Blazor
++ [Blazor Plate](https://www.blazorplate.net/technical-specifications)
 + https://github.com/AdrienTorris/awesome-blazor
 + https://codewithmukesh.com/blog/blazor-hero-quick-start-guide/
 + https://github.com/blazorhero/CleanArchitecture
