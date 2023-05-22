@@ -14,7 +14,12 @@
 # Blazor
 + https://github.com/AdrienTorris/awesome-blazor
 + https://github.com/dotnet-architecture/eShopOnBlazor
+
+# Oqtane Framework
 + https://github.com/oqtane/oqtane.framework
+
+# Static Framework
++ https://github.com/statiqdev/Statiq.Framework
 
 # Automatically Populate Form Fields
 + [Automatically Populate Form Fields](https://stackoverflow.com/questions/72069620/how-to-auto-populate-form-fields-with-json-using-one-select)
@@ -26,6 +31,12 @@
 # C# code generator
 + File/code generator from scriban text templates populated with data about C# code.
 + https://github.com/NeVeSpl/NTypewriter
++ Generate C# and TypeScript client codes from Open API / Swagger definitions
++ https://github.com/zijianhuang/openapiclientgen
++ https://github.com/microsoft/kiota
++ https://github.com/ErikWittern/openapi-snippet
++ https://github.com/Azure/autorest/
++ https://github.com/criteo/openapi-comparator
 
 # jsDoc V3
 + [Getting Started with JSDoc 3](https://jsdoc.app/about-getting-started.html)
