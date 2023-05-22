@@ -17,6 +17,7 @@
 
 # Form Builder From JSON
 + [Build forms from JSON Schema](https://github.com/jsonform/jsonform)
++ [Form Validator Bootstrap](https://www.jqueryscript.net/form/form-validator-bootstrap-bsvalidate.html)
 
 # Clean Code
 + https://docs.google.com/document/d/1fHS6aWNlRq1_IMakQJPnpxNtwsOkpehEc5e45pEuxRM/
