@@ -15,11 +15,18 @@
 + https://github.com/AdrienTorris/awesome-blazor
 + https://github.com/dotnet-architecture/eShopOnBlazor
 
-# Form Builder From JSON
+# Automatically Populate Form Fields
++ [Automatically Populate Form Fields](https://stackoverflow.com/questions/72069620/how-to-auto-populate-form-fields-with-json-using-one-select)
++ [Form Generator](https://stackoverflow.com/questions/63434249/how-to-create-a-form-generator-from-json-object-using-js)
++ [Form Generator](https://jsfiddle.net/mplungjan/otbgvzp8/)
+
+# Automatically Form Builder From JSON
 + [Build forms from JSON Schema](https://github.com/jsonform/jsonform)
-+ [Form Validator Bootstrap](https://www.jqueryscript.net/form/form-validator-bootstrap-bsvalidate.html)
 + [JSON-based forms](https://github.com/eclipsesource/jsonforms)
 + [View and visually edit JSON-based forms](https://github.com/bpmn-io/form-js)
++ [Alpaca - Easy Forms for jQuery](http://www.alpacajs.org/)
++ [JS Form Generator](https://stackoverflow.com/questions/8923904/javascript-form-generator)
++ [Form Validator Bootstrap](https://www.jqueryscript.net/form/form-validator-bootstrap-bsvalidate.html)
 + [Best Form Builder](https://www.jqueryscript.net/blog/best-form-builder.html)
 
 # Clean Code
