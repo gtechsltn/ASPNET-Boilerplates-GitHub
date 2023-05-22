@@ -43,6 +43,7 @@
 + [**JSON Schema to HTML form generator**](http://brutusin.org/json-forms/)
 + [JS Form Generator](https://stackoverflow.com/questions/8923904/javascript-form-generator)
 + [Form Validator Bootstrap](https://www.jqueryscript.net/form/form-validator-bootstrap-bsvalidate.html)
++ [Form JSON Schema](https://www.jqueryscript.net/form/Form-JSON-Schema.html)
 + [Best Form Builder](https://www.jqueryscript.net/blog/best-form-builder.html)
 
 # Clean Code
