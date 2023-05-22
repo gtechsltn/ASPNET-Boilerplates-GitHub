@@ -14,6 +14,7 @@
 # Blazor
 + https://github.com/AdrienTorris/awesome-blazor
 + https://github.com/dotnet-architecture/eShopOnBlazor
++ https://github.com/oqtane/oqtane.framework
 
 # Automatically Populate Form Fields
 + [Automatically Populate Form Fields](https://stackoverflow.com/questions/72069620/how-to-auto-populate-form-fields-with-json-using-one-select)
