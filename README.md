@@ -23,7 +23,11 @@
 + [Building Forms in Angular Apps | Auto-generate form definition in JSON with a WYSIWYG Form Builder](https://www.youtube.com/watch?v=wX06XXlcXJw)
 + [SurveyJS Code Examples](https://github.com/surveyjs/code-examples)
 
-# jsDoc
+# C# code generator
++ File/code generator from scriban text templates populated with data about C# code.
++ https://github.com/NeVeSpl/NTypewriter
+
+# jsDoc V3
 + [Getting Started with JSDoc 3](https://jsdoc.app/about-getting-started.html)
 + **Comment mang tính chất giải thích** (**clarification comments**): Thường được sử dụng, mục đích để cho người đọc hiểu được chức năng chính của một hàm hay một đoạn code cần giải thích.
 + **Comment mang tính chất tài liệu** (**documentation comments**): Thường được sử dụng để định nghĩa chi tiết cho một hàm hay một biến nào đó, bao gồm cả chức năng, kiểu dữ liệu, input/output như thế nào, kiểu dữ liệu trả về,... 
