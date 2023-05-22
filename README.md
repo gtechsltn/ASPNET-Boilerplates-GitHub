@@ -22,12 +22,28 @@
 + [Building Forms in Angular Apps | Auto-generate form definition in JSON with a WYSIWYG Form Builder](https://www.youtube.com/watch?v=wX06XXlcXJw)
 + [SurveyJS Code Examples](https://github.com/surveyjs/code-examples)
 
+# jsDoc
++ [Getting Started with JSDoc 3](https://jsdoc.app/about-getting-started.html)
++ **Comment mang tính chất giải thích** (**clarification comments**): Thường được sử dụng, mục đích để cho người đọc hiểu được chức năng chính của một hàm hay một đoạn code cần giải thích.
++ **Comment mang tính chất tài liệu** (**documentation comments**): Thường được sử dụng để định nghĩa chi tiết cho một hàm hay một biến nào đó, bao gồm cả chức năng, kiểu dữ liệu, input/output như thế nào, kiểu dữ liệu trả về,... 
++ Thẻ @type:
+  + Ví dụ: /** @type {string} Biến này chứa tin nhắn cần hiển thị */
++ Thẻ @param:
+  + Ví dụ: /**
+ * Hàm này dùng để in ra tin nhắn
+ * @param {string} msg 
+ */
++ Thẻ @async: Chi định hàm đó là asynchronous.
++ Thẻ @returns: Chỉ định giá trị trả về cho function.
++ Thẻ @version: Chỉ định phiên bản của một danh mục.
++ Thẻ @see: Tham chiếu tới một liên kết để biết thêm thông tin.
+
 # Automatically Form Builder From JSON
 + [**Build forms from JSON Schema**](https://github.com/jsonform/jsonform)
 + [**JSON-based forms**](https://github.com/eclipsesource/jsonforms)
 + [**View and visually edit JSON-based forms**](https://github.com/bpmn-io/form-js)
 + [**Alpaca** - Easy Forms for jQuery](http://www.alpacajs.org/)
-+ [**Alpaca** with Handlebars + jQuery + Bootstrap]https://www.youtube.com/watch?v=mK4BXiGNbvA)
++ [**Alpaca** with Handlebars + jQuery + Bootstrap](https://www.youtube.com/watch?v=mK4BXiGNbvA)
 + [NCForm](https://github.com/ncform/ncform)
 + [**JSON Schema to HTML form generator**](http://brutusin.org/json-forms/)
 + [JS Form Generator](https://stackoverflow.com/questions/8923904/javascript-form-generator)
