@@ -27,6 +27,8 @@
 + [**JSON-based forms**](https://github.com/eclipsesource/jsonforms)
 + [**View and visually edit JSON-based forms**](https://github.com/bpmn-io/form-js)
 + [**Alpaca** - Easy Forms for jQuery](http://www.alpacajs.org/)
++ [**Alpaca** with Handlebars + jQuery + Bootstrap]https://www.youtube.com/watch?v=mK4BXiGNbvA)
++ [NCForm](https://github.com/ncform/ncform)
 + [**JSON Schema to HTML form generator**](http://brutusin.org/json-forms/)
 + [JS Form Generator](https://stackoverflow.com/questions/8923904/javascript-form-generator)
 + [Form Validator Bootstrap](https://www.jqueryscript.net/form/form-validator-bootstrap-bsvalidate.html)
