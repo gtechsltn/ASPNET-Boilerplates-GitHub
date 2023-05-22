@@ -19,6 +19,8 @@
 + [Automatically Populate Form Fields](https://stackoverflow.com/questions/72069620/how-to-auto-populate-form-fields-with-json-using-one-select)
 + [Form Generator](https://stackoverflow.com/questions/63434249/how-to-create-a-form-generator-from-json-object-using-js)
 + [Form Generator](https://jsfiddle.net/mplungjan/otbgvzp8/)
++ [Building Forms in Angular Apps | Auto-generate form definition in JSON with a WYSIWYG Form Builder](https://www.youtube.com/watch?v=wX06XXlcXJw)
++ [SurveyJS Code Examples](https://github.com/surveyjs/code-examples)
 
 # Automatically Form Builder From JSON
 + [Build forms from JSON Schema](https://github.com/jsonform/jsonform)
