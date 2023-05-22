@@ -26,13 +26,8 @@
 + [Getting Started with JSDoc 3](https://jsdoc.app/about-getting-started.html)
 + **Comment mang tính chất giải thích** (**clarification comments**): Thường được sử dụng, mục đích để cho người đọc hiểu được chức năng chính của một hàm hay một đoạn code cần giải thích.
 + **Comment mang tính chất tài liệu** (**documentation comments**): Thường được sử dụng để định nghĩa chi tiết cho một hàm hay một biến nào đó, bao gồm cả chức năng, kiểu dữ liệu, input/output như thế nào, kiểu dữ liệu trả về,... 
-+ Thẻ @type:
-  + Ví dụ: /** @type {string} Biến này chứa tin nhắn cần hiển thị */
-+ Thẻ @param:
-  + Ví dụ: /**
- * Hàm này dùng để in ra tin nhắn
- * @param {string} msg 
- */
++ Thẻ @type: Chỉ định kiểu dữ liệu
++ Thẻ @param: Chỉ định tên tham số
 + Thẻ @async: Chi định hàm đó là asynchronous.
 + Thẻ @returns: Chỉ định giá trị trả về cho function.
 + Thẻ @version: Chỉ định phiên bản của một danh mục.
