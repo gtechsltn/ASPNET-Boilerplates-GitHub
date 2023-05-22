@@ -23,10 +23,11 @@
 + [SurveyJS Code Examples](https://github.com/surveyjs/code-examples)
 
 # Automatically Form Builder From JSON
-+ [Build forms from JSON Schema](https://github.com/jsonform/jsonform)
-+ [JSON-based forms](https://github.com/eclipsesource/jsonforms)
-+ [View and visually edit JSON-based forms](https://github.com/bpmn-io/form-js)
-+ [Alpaca - Easy Forms for jQuery](http://www.alpacajs.org/)
++ [**Build forms from JSON Schema**](https://github.com/jsonform/jsonform)
++ [**JSON-based forms**](https://github.com/eclipsesource/jsonforms)
++ [**View and visually edit JSON-based forms**](https://github.com/bpmn-io/form-js)
++ [**Alpaca** - Easy Forms for jQuery](http://www.alpacajs.org/)
++ [**JSON Schema to HTML form generator**](http://brutusin.org/json-forms/)
 + [JS Form Generator](https://stackoverflow.com/questions/8923904/javascript-form-generator)
 + [Form Validator Bootstrap](https://www.jqueryscript.net/form/form-validator-bootstrap-bsvalidate.html)
 + [Best Form Builder](https://www.jqueryscript.net/blog/best-form-builder.html)
